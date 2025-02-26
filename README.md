@@ -1,4 +1,4 @@
-# androidAcknowledgePurchase
+# AndroidAcknowledgePurchase
 
 ## Overview
 This code handles the process of checking the payment status and managing in-app purchases using Google's BillingClient.
