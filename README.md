@@ -121,7 +121,8 @@ private void acknowledgePurchase(Purchase purchase, String paymentId) {
 Ensure you have the **Google Play Billing Library** added to your `build.gradle`:
 ```gradle
 dependencies {
-    implementation 'com.android.billingclient:billing:7.0.0'
+    implementation "com.android.billingclient:billing:7.0.0"
+    implementation "com.android.billingclient:billing-ktx:7.0.0"
 }
 ```
 
