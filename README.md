@@ -131,6 +131,3 @@ dependencies {
 - Purchases must be **acknowledged** to prevent refunds.
 - Make sure to handle network issues and BillingClient disconnections properly.
 
-## License
-This code follows standard licensing agreements. Modify and use it as needed.
-
