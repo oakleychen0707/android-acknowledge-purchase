@@ -3,6 +3,11 @@
 ## Overview
 This code handles the process of checking the payment status and managing in-app purchases using Google's BillingClient.
 
+```
+implementation "com.android.billingclient:billing:7.0.0"
+implementation "com.android.billingclient:billing-ktx:7.0.0"
+```
+
 ## Features
 - Retrieves stored payment and order IDs.
 - Initializes BillingClient and establishes a connection.
